@@ -1,19 +1,3 @@
-# JavaScript Assessment - Teaching Assistant 
-
-The All Star Code Teaching Assistant JavaScript Assessment consists of 4 tasks, to be completed and turned in to dante@allstarcode.org as a GitHub gist.
-
-## IT IS NOT NECESSARY PASS ALL TEST SPECS TO GET HIRED. JUST DO YOUR BEST! :smile:
-
-### Steps to Tackling the Assessment
-1. Clone or download this repo.
-
-2. Navigate into the repo from command line and before doing anything else, run the command `npm install`.
-    - If any error occurs, run `npm init`. Hit enter for all the questions and enter `npm install` again.
-    - If command is not found for `npm install` or `npm init`, install node.js here: [https://nodejs.org/en/download/](https://nodejs.org/en/download/) and repeat step #2.
-
-3. Follow the prompts for each task and do your best!
-<br>
-
 ### Notes
 - The tests folder contains test files in which your functions will be tested with. Feel free to look at the tests, but **DO NOT** edit them. These exact tests will be used to test your answers when you submit your work.
 - **Info on testing your work with the provided test specs is included at the <a href="#tests">end of the document</a>.**
